@@ -23,6 +23,27 @@ aws s3 cp pymysql_layer.zip s3://lambda-packages-pymysql-s3
 
 ✅ Ensure RDS security group allows TCP 3306 from your IP
 
+
+### 🔹 B. Using EC2
+
+1. SSH into EC2:
+
+```bash
+ssh -i "your-key.pem" ec2-user@<EC2 Public IP>
+```
+
+2. Install MySQL client:
+
+```bash
+sudo yum install mysql -y
+```
+
+3. Connect to RDS:
+
+```bash
+mysql -h mydbinstance.c0n8k0a0swtz.us-east-1.rds.amazonaws.com -u admin -p
+```
+
 ```sql
 SHOW DATABASES;
 ```
