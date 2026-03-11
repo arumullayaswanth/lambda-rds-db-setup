@@ -41,6 +41,7 @@ ssh -i "your-key.pem" ec2-user@<EC2 Public IP>
 
 ```bash
 sudo yum install mariadb-server -y
+sudo dnf install mariadb105-server -y
 ```
 
 3. Connect to RDS:
