@@ -1,3 +1,6 @@
+
+![Architecture](https://github.com/arumullayaswanth/lambda-rds-db-setup/blob/ebfc36756db8c38f83936c1f007f275f84131d56/inages.png?raw=true)
+
 ```bash
 sudo -i
 yum install python3-pip -y
