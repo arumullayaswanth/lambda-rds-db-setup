@@ -1,4 +1,4 @@
-
+[![Watch the video](https://img.youtube.com/vi/vxgHx5uo-Yw/0.jpg)](https://youtu.be/vxgHx5uo-Yw)
 ![Architecture](https://github.com/arumullayaswanth/lambda-rds-db-setup/blob/ebfc36756db8c38f83936c1f007f275f84131d56/inages.png?raw=true)
 
 ```bash
