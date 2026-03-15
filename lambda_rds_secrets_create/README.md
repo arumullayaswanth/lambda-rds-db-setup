@@ -2,18 +2,11 @@
 
 ## 📺 Watch the Tutorial
 
-<h2 align="center">🎥 Watch the Full Tutorial</h2>
-
 <p align="center">
-  <a href="https://youtu.be/J5YAG6EnG7Y">
-    <img src="https://img.youtube.com/vi/J5YAG6EnG7Y/maxresdefault.jpg" width="800">
-  </a>
+<a href="https://youtube.com/@yourchannel">
+<img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube">
+</a>
 </p>
-
-<p align="center">
-  ⭐ If this tutorial helped you, consider subscribing for more AWS & DevOps content!
-</p>
-
 
 ## Architecture Diagram
 
