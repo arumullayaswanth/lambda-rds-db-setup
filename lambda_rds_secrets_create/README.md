@@ -1,9 +1,10 @@
-## 🎥 Watch the Full Video on YouTube
 
-👉 **Click the thumbnail below to watch on YouTube**
 
-[AWS Lambda Connect to RDS Securely using Secrets Manager](https://www.youtube.com/watch?v=J5YAG6EnG7Y&utm_source=chatgpt.com)
+## 📺 Watch the Tutorial
 
+[![Watch on YouTube](https://img.youtube.com/vi/J5YAG6EnG7Y/maxresdefault.jpg)](https://youtu.be/J5YAG6EnG7Y)
+
+⭐ If this helped you, consider subscribing to support the channel!
 
 ⭐ *This will open the video directly on YouTube.
 
