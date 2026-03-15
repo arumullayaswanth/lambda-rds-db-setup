@@ -1,12 +1,11 @@
 
 
 ## 📺 Watch the Tutorial
+## 🎥 Watch the Tutorial
 
-<p align="center">
-<a href="https://youtube.com/@yourchannel">
-<img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube">
-</a>
-</p>
+[![Watch the video](https://img.youtube.com/vi/J5YAG6EnG7Y/maxresdefault.jpg)](https://youtu.be/J5YAG6EnG7Y)
+
+⭐ If this helped you, consider subscribing to my YouTube channel!
 
 ## Architecture Diagram
 
