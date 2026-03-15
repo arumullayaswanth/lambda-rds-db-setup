@@ -2,9 +2,18 @@
 
 ## 📺 Watch the Tutorial
 
-[![Watch the video](https://img.youtube.com/vi/J5YAG6EnG7Y/maxresdefault.jpg)](https://youtu.be/J5YAG6EnG7Y)
-[![Watch the video](https://img.youtube.com/vi/J5YAG6EnG7Y/hqdefault.jpg)](https://youtu.be/J5YAG6EnG7Y)
-[![Watch the video](https://img.youtube.com/vi/J5YAG6EnG7Y/hqdefault.jpg)](https://youtu.be/J5YAG6EnG7Y)
+<h2 align="center">📺 Watch the Tutorial</h2>
+
+<p align="center">
+<a href="https://youtu.be/J5YAG6EnG7Y">
+<img src="https://img.youtube.com/vi/J5YAG6EnG7Y/maxresdefault.jpg" width="800">
+</a>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/▶%20Watch%20on%20YouTube-red?style=for-the-badge&logo=youtube">
+</p>
+
 
 ## Architecture Diagram
 
