@@ -7,6 +7,7 @@
 ⭐ If this helped you, consider subscribing to support the channel!
 
 ⭐ *This will open the video directly on YouTube.
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://youtube.com/@yourchannel)
 
 ## Architecture Diagram
 
